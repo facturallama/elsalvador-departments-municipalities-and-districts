@@ -1,0 +1,1574 @@
+[
+  {
+    "label": "Atiquizaya",
+    "value": "03",
+    "department": "01",
+    "municipality": "13"
+  },
+  {
+    "label": "El Refugio",
+    "value": "05",
+    "department": "01",
+    "municipality": "13"
+  },
+  {
+    "label": "San Lorenzo",
+    "value": "09",
+    "department": "01",
+    "municipality": "13"
+  },
+  {
+    "label": "Turín",
+    "value": "12",
+    "department": "01",
+    "municipality": "13"
+  },
+  {
+    "label": "Ahuachapán",
+    "value": "01",
+    "department": "01",
+    "municipality": "14"
+  },
+  {
+    "label": "Apaneca",
+    "value": "02",
+    "department": "01",
+    "municipality": "14"
+  },
+  {
+    "label": "Concepción de Ataco",
+    "value": "04",
+    "department": "01",
+    "municipality": "14"
+  },
+  {
+    "label": "Tacuba",
+    "value": "11",
+    "department": "01",
+    "municipality": "14"
+  },
+  {
+    "label": "Guaymango",
+    "value": "06",
+    "department": "01",
+    "municipality": "15"
+  },
+  {
+    "label": "Jujutla",
+    "value": "07",
+    "department": "01",
+    "municipality": "15"
+  },
+  {
+    "label": "San Francisco Menéndez",
+    "value": "08",
+    "department": "01",
+    "municipality": "15"
+  },
+  {
+    "label": "San Pedro Puxtla",
+    "value": "10",
+    "department": "01",
+    "municipality": "15"
+  },
+  {
+    "label": "Masahuat",
+    "value": "06",
+    "department": "02",
+    "municipality": "14"
+  },
+  {
+    "label": "Metapán",
+    "value": "07",
+    "department": "02",
+    "municipality": "14"
+  },
+  {
+    "label": "Santa Rosa Guachipilín",
+    "value": "11",
+    "department": "02",
+    "municipality": "14"
+  },
+  {
+    "label": "Texistepeque",
+    "value": "13",
+    "department": "02",
+    "municipality": "14"
+  },
+  {
+    "label": "Santa Ana",
+    "value": "10",
+    "department": "02",
+    "municipality": "15"
+  },
+  {
+    "label": "Coatepeque",
+    "value": "02",
+    "department": "02",
+    "municipality": "16"
+  },
+  {
+    "label": "El Congo",
+    "value": "04",
+    "department": "02",
+    "municipality": "16"
+  },
+  {
+    "label": "Candelaria de la Frontera",
+    "value": "01",
+    "department": "02",
+    "municipality": "17"
+  },
+  {
+    "label": "Chalchuapa",
+    "value": "03",
+    "department": "02",
+    "municipality": "17"
+  },
+  {
+    "label": "El Porvenir",
+    "value": "05",
+    "department": "02",
+    "municipality": "17"
+  },
+  {
+    "label": "San Antonio Pajonal",
+    "value": "08",
+    "department": "02",
+    "municipality": "17"
+  },
+  {
+    "label": "San Sebastián Salitrillo",
+    "value": "09",
+    "department": "02",
+    "municipality": "17"
+  },
+  {
+    "label": "Santiago de la Frontera",
+    "value": "12",
+    "department": "02",
+    "municipality": "17"
+  },
+  {
+    "label": "Juayúa",
+    "value": "07",
+    "department": "03",
+    "municipality": "17"
+  },
+  {
+    "label": "Nahuizalco",
+    "value": "08",
+    "department": "03",
+    "municipality": "17"
+  },
+  {
+    "label": "Salcoatitán",
+    "value": "10",
+    "department": "03",
+    "municipality": "17"
+  },
+  {
+    "label": "Santa Catarina Masahuat",
+    "value": "13",
+    "department": "03",
+    "municipality": "17"
+  },
+  {
+    "label": "Nahuilingo",
+    "value": "09",
+    "department": "03",
+    "municipality": "18"
+  },
+  {
+    "label": "San Antonio del Monte",
+    "value": "11",
+    "department": "03",
+    "municipality": "18"
+  },
+  {
+    "label": "Santo Domingo de Guzmán",
+    "value": "14",
+    "department": "03",
+    "municipality": "18"
+  },
+  {
+    "label": "Sonsonate",
+    "value": "15",
+    "department": "03",
+    "municipality": "18"
+  },
+  {
+    "label": "Sonzacate",
+    "value": "16",
+    "department": "03",
+    "municipality": "18"
+  },
+  {
+    "label": "Armenia",
+    "value": "02",
+    "department": "03",
+    "municipality": "19"
+  },
+  {
+    "label": "Caluco",
+    "value": "03",
+    "department": "03",
+    "municipality": "19"
+  },
+  {
+    "label": "Cuisnahuat",
+    "value": "04",
+    "department": "03",
+    "municipality": "19"
+  },
+  {
+    "label": "Izalco",
+    "value": "06",
+    "department": "03",
+    "municipality": "19"
+  },
+  {
+    "label": "San Julián",
+    "value": "12",
+    "department": "03",
+    "municipality": "19"
+  },
+  {
+    "label": "Santa Isabel Ishuatán",
+    "value": "05",
+    "department": "03",
+    "municipality": "19"
+  },
+  {
+    "label": "Acajutla",
+    "value": "01",
+    "department": "03",
+    "municipality": "20"
+  },
+  {
+    "label": "Citala",
+    "value": "04",
+    "department": "04",
+    "municipality": "34"
+  },
+  {
+    "label": "La Palma",
+    "value": "12",
+    "department": "04",
+    "municipality": "34"
+  },
+  {
+    "label": "San Ignacio",
+    "value": "25",
+    "department": "04",
+    "municipality": "34"
+  },
+  {
+    "label": "Agua Caliente",
+    "value": "01",
+    "department": "04",
+    "municipality": "35"
+  },
+  {
+    "label": "Dulce Nombre de Maria",
+    "value": "08",
+    "department": "04",
+    "municipality": "35"
+  },
+  {
+    "label": "El Paraiso",
+    "value": "10",
+    "department": "04",
+    "municipality": "35"
+  },
+  {
+    "label": "La Reina",
+    "value": "13",
+    "department": "04",
+    "municipality": "35"
+  },
+  {
+    "label": "Nueva Concepcion",
+    "value": "16",
+    "department": "04",
+    "municipality": "35"
+  },
+  {
+    "label": "San Fernando",
+    "value": "22",
+    "department": "04",
+    "municipality": "35"
+  },
+  {
+    "label": "San Francisco Morazan",
+    "value": "24",
+    "department": "04",
+    "municipality": "35"
+  },
+  {
+    "label": "San Rafael",
+    "value": "31",
+    "department": "04",
+    "municipality": "35"
+  },
+  {
+    "label": "Santa Rita",
+    "value": "32",
+    "department": "04",
+    "municipality": "35"
+  },
+  {
+    "label": "Tejutla",
+    "value": "33",
+    "department": "04",
+    "municipality": "35"
+  },
+  {
+    "label": "Arcatao",
+    "value": "02",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "Azacualpa",
+    "value": "03",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "Chalatenango",
+    "value": "07",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "Comalapa",
+    "value": "05",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "Concepcion Quezaltepeque",
+    "value": "06",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "El Carrizal",
+    "value": "09",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "La Laguna",
+    "value": "11",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "Las Vueltas",
+    "value": "14",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "Nombre de Jesus",
+    "value": "15",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "Nueva Trinidad",
+    "value": "17",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "Ojos de Agua",
+    "value": "18",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "Potonico",
+    "value": "19",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "San Antonio de la Cruz",
+    "value": "20",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "San Antonio Los Ranchos",
+    "value": "21",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "San Francisco Lempa",
+    "value": "23",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "San Isidro Labrador",
+    "value": "26",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "San Jose Cancasque",
+    "value": "27",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "Las Flores",
+    "value": "28",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "San Luis del Carmen",
+    "value": "29",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "San Miguel de Mercedes",
+    "value": "30",
+    "department": "04",
+    "municipality": "36"
+  },
+  {
+    "label": "Quezaltepeque",
+    "value": "12",
+    "department": "05",
+    "municipality": "23"
+  },
+  {
+    "label": "San Matias",
+    "value": "16",
+    "department": "05",
+    "municipality": "23"
+  },
+  {
+    "label": "San Pablo Tacachico",
+    "value": "17",
+    "department": "05",
+    "municipality": "23"
+  },
+  {
+    "label": "Ciudad Arce",
+    "value": "02",
+    "department": "05",
+    "municipality": "24"
+  },
+  {
+    "label": "San Juan Opico",
+    "value": "15",
+    "department": "05",
+    "municipality": "24"
+  },
+  {
+    "label": "Colon",
+    "value": "03",
+    "department": "05",
+    "municipality": "25"
+  },
+  {
+    "label": "Jayaque",
+    "value": "07",
+    "department": "05",
+    "municipality": "25"
+  },
+  {
+    "label": "Sacacoyo",
+    "value": "13",
+    "department": "05",
+    "municipality": "25"
+  },
+  {
+    "label": "Talnique",
+    "value": "19",
+    "department": "05",
+    "municipality": "25"
+  },
+  {
+    "label": "Tepecoyo",
+    "value": "21",
+    "department": "05",
+    "municipality": "25"
+  },
+  {
+    "label": "Antiguo Cuscatlan",
+    "value": "01",
+    "department": "05",
+    "municipality": "26"
+  },
+  {
+    "label": "Huizucar",
+    "value": "06",
+    "department": "05",
+    "municipality": "26"
+  },
+  {
+    "label": "Nuevo Cuscatlan",
+    "value": "10",
+    "department": "05",
+    "municipality": "26"
+  },
+  {
+    "label": "San Jose Villanueva",
+    "value": "14",
+    "department": "05",
+    "municipality": "26"
+  },
+  {
+    "label": "Zaragoza",
+    "value": "22",
+    "department": "05",
+    "municipality": "26"
+  },
+  {
+    "label": "Chiltiupan",
+    "value": "05",
+    "department": "05",
+    "municipality": "27"
+  },
+  {
+    "label": "Jicalapa",
+    "value": "08",
+    "department": "05",
+    "municipality": "27"
+  },
+  {
+    "label": "La Libertad",
+    "value": "09",
+    "department": "05",
+    "municipality": "27"
+  },
+  {
+    "label": "Tamanique",
+    "value": "18",
+    "department": "05",
+    "municipality": "27"
+  },
+  {
+    "label": "Teotepeque",
+    "value": "20",
+    "department": "05",
+    "municipality": "27"
+  },
+  {
+    "label": "Comasagua",
+    "value": "04",
+    "department": "05",
+    "municipality": "28"
+  },
+  {
+    "label": "Santa Tecla",
+    "value": "11",
+    "department": "05",
+    "municipality": "28"
+  },
+  {
+    "label": "Aguilares",
+    "value": "01",
+    "department": "06",
+    "municipality": "20"
+  },
+  {
+    "label": "El Paisnal",
+    "value": "05",
+    "department": "06",
+    "municipality": "20"
+  },
+  {
+    "label": "Guazapa",
+    "value": "06",
+    "department": "06",
+    "municipality": "20"
+  },
+  {
+    "label": "Apopa",
+    "value": "02",
+    "department": "06",
+    "municipality": "21"
+  },
+  {
+    "label": "Nejapa",
+    "value": "09",
+    "department": "06",
+    "municipality": "21"
+  },
+  {
+    "label": "Ilopango",
+    "value": "07",
+    "department": "06",
+    "municipality": "22"
+  },
+  {
+    "label": "San Martin",
+    "value": "13",
+    "department": "06",
+    "municipality": "22"
+  },
+  {
+    "label": "Soyapango",
+    "value": "17",
+    "department": "06",
+    "municipality": "22"
+  },
+  {
+    "label": "Tonacatepeque",
+    "value": "18",
+    "department": "06",
+    "municipality": "22"
+  },
+  {
+    "label": "Ayutuxtepeque",
+    "value": "03",
+    "department": "06",
+    "municipality": "23"
+  },
+  {
+    "label": "Mejicanos",
+    "value": "08",
+    "department": "06",
+    "municipality": "23"
+  },
+  {
+    "label": "San Salvador",
+    "value": "14",
+    "department": "06",
+    "municipality": "23"
+  },
+  {
+    "label": "Cuscatancingo",
+    "value": "04",
+    "department": "06",
+    "municipality": "23"
+  },
+  {
+    "label": "Ciudad Delgado",
+    "value": "19",
+    "department": "06",
+    "municipality": "23"
+  },
+  {
+    "label": "Panchimalco",
+    "value": "10",
+    "department": "06",
+    "municipality": "24"
+  },
+  {
+    "label": "Rosario de Mora",
+    "value": "11",
+    "department": "06",
+    "municipality": "24"
+  },
+  {
+    "label": "San Marcos",
+    "value": "12",
+    "department": "06",
+    "municipality": "24"
+  },
+  {
+    "label": "Santiago Texacuangos",
+    "value": "15",
+    "department": "06",
+    "municipality": "24"
+  },
+  {
+    "label": "Santo Tomas",
+    "value": "16",
+    "department": "06",
+    "municipality": "24"
+  },
+  {
+    "label": "Oratorio de Concepcion",
+    "value": "06",
+    "department": "07",
+    "municipality": "17"
+  },
+  {
+    "label": "San Bartolome Perulapia",
+    "value": "07",
+    "department": "07",
+    "municipality": "17"
+  },
+  {
+    "label": "San Jose Guayabal",
+    "value": "09",
+    "department": "07",
+    "municipality": "17"
+  },
+  {
+    "label": "San Pedro Perulapan",
+    "value": "10",
+    "department": "07",
+    "municipality": "17"
+  },
+  {
+    "label": "Suchitoto",
+    "value": "15",
+    "department": "07",
+    "municipality": "17"
+  },
+  {
+    "label": "Candelaria",
+    "value": "01",
+    "department": "07",
+    "municipality": "18"
+  },
+  {
+    "label": "Cojutepeque",
+    "value": "02",
+    "department": "07",
+    "municipality": "18"
+  },
+  {
+    "label": "El Carmen",
+    "value": "03",
+    "department": "07",
+    "municipality": "18"
+  },
+  {
+    "label": "El Rosario",
+    "value": "04",
+    "department": "07",
+    "municipality": "18"
+  },
+  {
+    "label": "Monte San Juan",
+    "value": "05",
+    "department": "07",
+    "municipality": "18"
+  },
+  {
+    "label": "San Cristobal",
+    "value": "08",
+    "department": "07",
+    "municipality": "18"
+  },
+  {
+    "label": "San Rafael Cedros",
+    "value": "11",
+    "department": "07",
+    "municipality": "18"
+  },
+  {
+    "label": "San Ramon",
+    "value": "12",
+    "department": "07",
+    "municipality": "18"
+  },
+  {
+    "label": "Santa Cruz Analquito",
+    "value": "13",
+    "department": "07",
+    "municipality": "18"
+  },
+  {
+    "label": "Santa Cruz Michapa",
+    "value": "14",
+    "department": "07",
+    "municipality": "18"
+  },
+  {
+    "label": "Tenancingo",
+    "value": "16",
+    "department": "07",
+    "municipality": "18"
+  },
+  {
+    "label": "Cuyultitan",
+    "value": "01",
+    "department": "08",
+    "municipality": "23"
+  },
+  {
+    "label": "Olocuilta",
+    "value": "05",
+    "department": "08",
+    "municipality": "23"
+  },
+  {
+    "label": "San Francisco Chinameca",
+    "value": "09",
+    "department": "08",
+    "municipality": "23"
+  },
+  {
+    "label": "San Juan Talpa",
+    "value": "11",
+    "department": "08",
+    "municipality": "23"
+  },
+  {
+    "label": "San Luis Talpa",
+    "value": "13",
+    "department": "08",
+    "municipality": "23"
+  },
+  {
+    "label": "San Pedro Masahuat",
+    "value": "15",
+    "department": "08",
+    "municipality": "23"
+  },
+  {
+    "label": "Tapalhuaca",
+    "value": "20",
+    "department": "08",
+    "municipality": "23"
+  },
+  {
+    "label": "El Rosario",
+    "value": "04",
+    "department": "08",
+    "municipality": "24"
+  },
+  {
+    "label": "Jerusalen",
+    "value": "03",
+    "department": "08",
+    "municipality": "24"
+  },
+  {
+    "label": "Mercedes La Ceiba",
+    "value": "04",
+    "department": "08",
+    "municipality": "24"
+  },
+  {
+    "label": "Paraiso de Osorio",
+    "value": "06",
+    "department": "08",
+    "municipality": "24"
+  },
+  {
+    "label": "San Antonio Masahuat",
+    "value": "07",
+    "department": "08",
+    "municipality": "24"
+  },
+  {
+    "label": "San Emigdio",
+    "value": "08",
+    "department": "08",
+    "municipality": "24"
+  },
+  {
+    "label": "San Juan Tepezontes",
+    "value": "12",
+    "department": "08",
+    "municipality": "24"
+  },
+  {
+    "label": "San Luis La Herradura",
+    "value": "22",
+    "department": "08",
+    "municipality": "24"
+  },
+  {
+    "label": "San Miguel Tepezontes",
+    "value": "14",
+    "department": "08",
+    "municipality": "24"
+  },
+  {
+    "label": "San Pedro Nonualco",
+    "value": "16",
+    "department": "08",
+    "municipality": "24"
+  },
+  {
+    "label": "Santa Maria Ostuma",
+    "value": "18",
+    "department": "08",
+    "municipality": "24"
+  },
+  {
+    "label": "Santiago Nonualco",
+    "value": "19",
+    "department": "08",
+    "municipality": "24"
+  },
+  {
+    "label": "San Juan Nonualco",
+    "value": "10",
+    "department": "08",
+    "municipality": "25"
+  },
+  {
+    "label": "San Rafael Obrajuelo",
+    "value": "17",
+    "department": "08",
+    "municipality": "25"
+  },
+  {
+    "label": "Zacatecoluca",
+    "value": "21",
+    "department": "08",
+    "municipality": "25"
+  },
+  {
+    "label": "Dolores",
+    "value": "09",
+    "department": "09",
+    "municipality": "11"
+  },
+  {
+    "label": "Guacotecti",
+    "value": "02",
+    "department": "09",
+    "municipality": "11"
+  },
+  {
+    "label": "Sensuntepeque",
+    "value": "06",
+    "department": "09",
+    "municipality": "11"
+  },
+  {
+    "label": "Victoria",
+    "value": "08",
+    "department": "09",
+    "municipality": "11"
+  },
+  {
+    "label": "San Isidro",
+    "value": "05",
+    "department": "09",
+    "municipality": "11"
+  },
+  {
+    "label": "Cinquera",
+    "value": "01",
+    "department": "09",
+    "municipality": "10"
+  },
+  {
+    "label": "Ilobasco",
+    "value": "03",
+    "department": "09",
+    "municipality": "10"
+  },
+  {
+    "label": "Jutiapa",
+    "value": "04",
+    "department": "09",
+    "municipality": "10"
+  },
+  {
+    "label": "Tejutepeque",
+    "value": "07",
+    "department": "09",
+    "municipality": "10"
+  },
+  {
+    "label": "Apastepeque",
+    "value": "01",
+    "department": "10",
+    "municipality": "14"
+  },
+  {
+    "label": "San Esteban Catarina",
+    "value": "06",
+    "department": "10",
+    "municipality": "14"
+  },
+  {
+    "label": "San Ildefonso",
+    "value": "07",
+    "department": "10",
+    "municipality": "14"
+  },
+  {
+    "label": "San Lorenzo",
+    "value": "09",
+    "department": "10",
+    "municipality": "14"
+  },
+  {
+    "label": "San Sebastian",
+    "value": "09",
+    "department": "10",
+    "municipality": "14"
+  },
+  {
+    "label": "Santa Clara",
+    "value": "04",
+    "department": "10",
+    "municipality": "14"
+  },
+  {
+    "label": "Santo Domingo",
+    "value": "05",
+    "department": "10",
+    "municipality": "14"
+  },
+  {
+    "label": "Guadalupe",
+    "value": "02",
+    "department": "10",
+    "municipality": "15"
+  },
+  {
+    "label": "San Cayetano Istepeque",
+    "value": "03",
+    "department": "10",
+    "municipality": "15"
+  },
+  {
+    "label": "San Vicente",
+    "value": "10",
+    "department": "10",
+    "municipality": "15"
+  },
+  {
+    "label": "Tecoluca",
+    "value": "11",
+    "department": "10",
+    "municipality": "15"
+  },
+  {
+    "label": "Tepetitan",
+    "value": "12",
+    "department": "10",
+    "municipality": "15"
+  },
+  {
+    "label": "Verapaz",
+    "value": "13",
+    "department": "10",
+    "municipality": "15"
+  },
+  {
+    "label": "Alegría",
+    "value": "01",
+    "department": "11",
+    "municipality": "24"
+  },
+  {
+    "label": "Berlín",
+    "value": "02",
+    "department": "11",
+    "municipality": "24"
+  },
+  {
+    "label": "El Triunfo",
+    "value": "05",
+    "department": "11",
+    "municipality": "24"
+  },
+  {
+    "label": "Estanzuelas",
+    "value": "07",
+    "department": "11",
+    "municipality": "24"
+  },
+  {
+    "label": "Jucuapa",
+    "value": "09",
+    "department": "11",
+    "municipality": "24"
+  },
+  {
+    "label": "Mercedes Umaña",
+    "value": "11",
+    "department": "11",
+    "municipality": "24"
+  },
+  {
+    "label": "Nueva Granada",
+    "value": "12",
+    "department": "11",
+    "municipality": "24"
+  },
+  {
+    "label": "San Buenaventura",
+    "value": "16",
+    "department": "11",
+    "municipality": "24"
+  },
+  {
+    "label": "Santiago de María",
+    "value": "21",
+    "department": "11",
+    "municipality": "24"
+  },
+  {
+    "label": "California",
+    "value": "03",
+    "department": "11",
+    "municipality": "25"
+  },
+  {
+    "label": "Concepción Batres",
+    "value": "04",
+    "department": "11",
+    "municipality": "25"
+  },
+  {
+    "label": "Ereguayquín",
+    "value": "06",
+    "department": "11",
+    "municipality": "25"
+  },
+  {
+    "label": "Jucuarán",
+    "value": "10",
+    "department": "11",
+    "municipality": "25"
+  },
+  {
+    "label": "Ozatlán",
+    "value": "13",
+    "department": "11",
+    "municipality": "25"
+  },
+  {
+    "label": "San Dionisio",
+    "value": "17",
+    "department": "11",
+    "municipality": "25"
+  },
+  {
+    "label": "Santa Elena",
+    "value": "18",
+    "department": "11",
+    "municipality": "25"
+  },
+  {
+    "label": "Santa María",
+    "value": "20",
+    "department": "11",
+    "municipality": "25"
+  },
+  {
+    "label": "Tecapán",
+    "value": "22",
+    "department": "11",
+    "municipality": "25"
+  },
+  {
+    "label": "Usulután",
+    "value": "23",
+    "department": "11",
+    "municipality": "25"
+  },
+  {
+    "label": "Jiquilisco",
+    "value": "08",
+    "department": "11",
+    "municipality": "26"
+  },
+  {
+    "label": "Puerto El Triunfo",
+    "value": "14",
+    "department": "11",
+    "municipality": "26"
+  },
+  {
+    "label": "San Agustín",
+    "value": "15",
+    "department": "11",
+    "municipality": "26"
+  },
+  {
+    "label": "San Francisco Javier",
+    "value": "19",
+    "department": "11",
+    "municipality": "26"
+  },
+  {
+    "label": "Carolina",
+    "value": "01",
+    "department": "12",
+    "municipality": "21"
+  },
+  {
+    "label": "Chapeltique",
+    "value": "04",
+    "department": "12",
+    "municipality": "21"
+  },
+  {
+    "label": "Ciudad Barrios",
+    "value": "02",
+    "department": "12",
+    "municipality": "21"
+  },
+  {
+    "label": "Nuevo Eden de San Juan",
+    "value": "11",
+    "department": "12",
+    "municipality": "21"
+  },
+  {
+    "label": "San Antonio del Mosco",
+    "value": "13",
+    "department": "12",
+    "municipality": "21"
+  },
+  {
+    "label": "San Gerardo",
+    "value": "14",
+    "department": "12",
+    "municipality": "21"
+  },
+  {
+    "label": "San Luis de la Reina",
+    "value": "16",
+    "department": "12",
+    "municipality": "21"
+  },
+  {
+    "label": "Sesori",
+    "value": "19",
+    "department": "12",
+    "municipality": "21"
+  },
+  {
+    "label": "Chirilagua",
+    "value": "06",
+    "department": "12",
+    "municipality": "22"
+  },
+  {
+    "label": "Comacaran",
+    "value": "03",
+    "department": "12",
+    "municipality": "22"
+  },
+  {
+    "label": "Moncagua",
+    "value": "09",
+    "department": "12",
+    "municipality": "22"
+  },
+  {
+    "label": "Quelepa",
+    "value": "12",
+    "department": "12",
+    "municipality": "22"
+  },
+  {
+    "label": "San Miguel",
+    "value": "17",
+    "department": "12",
+    "municipality": "22"
+  },
+  {
+    "label": "Uluazapa",
+    "value": "20",
+    "department": "12",
+    "municipality": "22"
+  },
+  {
+    "label": "Chinameca",
+    "value": "05",
+    "department": "12",
+    "municipality": "23"
+  },
+  {
+    "label": "El Transito",
+    "value": "07",
+    "department": "12",
+    "municipality": "23"
+  },
+  {
+    "label": "Lolotique",
+    "value": "08",
+    "department": "12",
+    "municipality": "23"
+  },
+  {
+    "label": "Nueva Guadalupe",
+    "value": "10",
+    "department": "12",
+    "municipality": "23"
+  },
+  {
+    "label": "San Jorge",
+    "value": "15",
+    "department": "12",
+    "municipality": "23"
+  },
+  {
+    "label": "San Rafael Oriente",
+    "value": "18",
+    "department": "12",
+    "municipality": "23"
+  },
+  {
+    "label": "Arambala",
+    "value": "01",
+    "department": "13",
+    "municipality": "27"
+  },
+  {
+    "label": "Cacaopera",
+    "value": "02",
+    "department": "13",
+    "municipality": "27"
+  },
+  {
+    "label": "Corinto",
+    "value": "03",
+    "department": "13",
+    "municipality": "27"
+  },
+  {
+    "label": "El Rosario",
+    "value": "04",
+    "department": "13",
+    "municipality": "27"
+  },
+  {
+    "label": "Joateca",
+    "value": "10",
+    "department": "13",
+    "municipality": "27"
+  },
+  {
+    "label": "Jocoaitique",
+    "value": "11",
+    "department": "13",
+    "municipality": "27"
+  },
+  {
+    "label": "Meanguera",
+    "value": "14",
+    "department": "13",
+    "municipality": "27"
+  },
+  {
+    "label": "Perquin",
+    "value": "16",
+    "department": "13",
+    "municipality": "27"
+  },
+  {
+    "label": "San Fernando",
+    "value": "22",
+    "department": "13",
+    "municipality": "27"
+  },
+  {
+    "label": "San Isidro",
+    "value": "05",
+    "department": "13",
+    "municipality": "27"
+  },
+  {
+    "label": "Torola",
+    "value": "24",
+    "department": "13",
+    "municipality": "27"
+  },
+  {
+    "label": "Chilanga",
+    "value": "04",
+    "department": "13",
+    "municipality": "28"
+  },
+  {
+    "label": "Delicias de Concepcion",
+    "value": "05",
+    "department": "13",
+    "municipality": "28"
+  },
+  {
+    "label": "El Divisadero",
+    "value": "06",
+    "department": "13",
+    "municipality": "28"
+  },
+  {
+    "label": "Gualococti",
+    "value": "08",
+    "department": "13",
+    "municipality": "28"
+  },
+  {
+    "label": "Guatajiagua",
+    "value": "09",
+    "department": "13",
+    "municipality": "28"
+  },
+  {
+    "label": "Jocoro",
+    "value": "12",
+    "department": "13",
+    "municipality": "28"
+  },
+  {
+    "label": "Lolotiquillo",
+    "value": "13",
+    "department": "13",
+    "municipality": "28"
+  },
+  {
+    "label": "Osicala",
+    "value": "15",
+    "department": "13",
+    "municipality": "28"
+  },
+  {
+    "label": "San Carlos",
+    "value": "17",
+    "department": "13",
+    "municipality": "28"
+  },
+  {
+    "label": "San Francisco Gotera",
+    "value": "19",
+    "department": "13",
+    "municipality": "28"
+  },
+  {
+    "label": "San Simon",
+    "value": "21",
+    "department": "13",
+    "municipality": "28"
+  },
+  {
+    "label": "Sensembra",
+    "value": "22",
+    "department": "13",
+    "municipality": "28"
+  },
+  {
+    "label": "Sociedad",
+    "value": "23",
+    "department": "13",
+    "municipality": "28"
+  },
+  {
+    "label": "Yamabal",
+    "value": "25",
+    "department": "13",
+    "municipality": "28"
+  },
+  {
+    "label": "Yoloaiquin",
+    "value": "26",
+    "department": "13",
+    "municipality": "28"
+  },
+  {
+    "label": "Anamoros",
+    "value": "01",
+    "department": "14",
+    "municipality": "19"
+  },
+  {
+    "label": "Bolivar",
+    "value": "02",
+    "department": "14",
+    "municipality": "19"
+  },
+  {
+    "label": "Concepcion de Oriente",
+    "value": "03",
+    "department": "14",
+    "municipality": "19"
+  },
+  {
+    "label": "El Sauce",
+    "value": "06",
+    "department": "14",
+    "municipality": "19"
+  },
+  {
+    "label": "Lislique",
+    "value": "09",
+    "department": "14",
+    "municipality": "19"
+  },
+  {
+    "label": "Nueva Esparta",
+    "value": "11",
+    "department": "14",
+    "municipality": "19"
+  },
+  {
+    "label": "Pasaquina",
+    "value": "12",
+    "department": "14",
+    "municipality": "19"
+  },
+  {
+    "label": "Poloros",
+    "value": "13",
+    "department": "14",
+    "municipality": "19"
+  },
+  {
+    "label": "San Jose Las Fuentes",
+    "value": "15",
+    "department": "14",
+    "municipality": "19"
+  },
+  {
+    "label": "Santa Rosa de Lima",
+    "value": "16",
+    "department": "14",
+    "municipality": "19"
+  },
+  {
+    "label": "Conchagua",
+    "value": "04",
+    "department": "14",
+    "municipality": "20"
+  },
+  {
+    "label": "El Carmen",
+    "value": "03",
+    "department": "14",
+    "municipality": "20"
+  },
+  {
+    "label": "Intipuca",
+    "value": "07",
+    "department": "14",
+    "municipality": "20"
+  },
+  {
+    "label": "La Union",
+    "value": "08",
+    "department": "14",
+    "municipality": "20"
+  },
+  {
+    "label": "Meanguera del Golfo",
+    "value": "10",
+    "department": "14",
+    "municipality": "20"
+  },
+  {
+    "label": "San Alejo",
+    "value": "14",
+    "department": "14",
+    "municipality": "20"
+  },
+  {
+    "label": "Yayantique",
+    "value": "17",
+    "department": "14",
+    "municipality": "20"
+  },
+  {
+    "label": "Yucuaiquin",
+    "value": "18",
+    "department": "14",
+    "municipality": "20"
+  }
+]
